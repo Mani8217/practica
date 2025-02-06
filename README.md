@@ -1,11 +1,14 @@
 # Juego 2D con Pygame
-<img src="https://www.tutorialspoint.com/pygame/images/display_window.jpg"  alt="pygame">
+
+
  
 # Introduction 
 
 ## 👾 Juego 2D con Pygame 🕹️
 
 Este proyecto es un juego 2D desarrollado con la biblioteca Pygame de Python. El objetivo principal es controlar un personaje y sobrevivir el mayor tiempo posible, evitando los obstáculos que aparecen aleatoriamente en la pantalla.
+
+<img align='right' src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247037646/original/2cf8a3ff6190254448aff92b85916d39691af0be/create-a-2d-game-with-python-using-pygame.png" width = "40%">
 
 ## 🚀 Características Principales
 
