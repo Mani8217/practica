@@ -8,11 +8,14 @@
 
 Este proyecto es un juego 2D desarrollado con la biblioteca Pygame de Python. El objetivo principal es controlar un personaje y sobrevivir el mayor tiempo posible, evitando los obstáculos que aparecen aleatoriamente en la pantalla.
 
-<img align='right' src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247037646/original/2cf8a3ff6190254448aff92b85916d39691af0be/create-a-2d-game-with-python-using-pygame.png" width = "40%">
+
 
 ## 🚀 Características Principales
 
 *   **Control del Personaje:** El jugador controla el personaje principal mediante las flechas del teclado (arriba, abajo, izquierda, derecha).
+<img align='right' src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247037646/original/2cf8a3ff6190254448aff92b85916d39691af0be/create-a-2d-game-with-python-using-pygame.png" width = "40%">
+
+*   
 *   **Generación de Obstáculos Aleatorios:** Los obstáculos aparecen de forma aleatoria en diferentes posiciones, aumentando el desafío.
 *   **Detección de Colisiones:** El juego detecta las colisiones entre el personaje y los obstáculos. Al ocurrir una colisión, el juego finaliza.
 *   **Pantalla Principal:** El juego utiliza una ventana principal creada con Pygame para mostrar el juego.
